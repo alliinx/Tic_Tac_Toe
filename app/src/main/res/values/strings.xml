@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Крестики-Нолики</string>
+    <string name="title_new_game">Новая игра</string>
+    <string name="title_continue_game">Продолжить игру</string>
+    <string name="title_save_game">Сохранить и выйти</string>
+    <string name="title_settings">Настройки</string>
+    <string name="settings_sound">Звук</string>
+    <string name="settings_difficulty_level">Сложность</string>
+    <string name="settings_game_rules">Правила игры</string>
+    <string name="settings_easy">Легко</string>
+    <string name="settings_vertical">Ряд по вертикали</string>
+    <string name="settings_horizontal">Ряд по горизонтали</string>
+    <string name="settings_diagonal">Ряд по диагонали</string>
+    <string name="settings_back">Вернуться</string>
+    <string name="text_menu">Меню</string>
+    <string name="dialog_title_win">Вы выиграли!</string>
+    <string name="dialog_title_lose">Вы проиграли.</string>
+    <string name="dialog_title_draw">Вы сыграли вничью!</string>
+    <string name="dialog_title_okay">Ок</string>
+    <string name="preference_file_key">my.tic_tac_toe.file_key</string>
+
+    <string-array name="game_levels">
+        <item>ЛЕГКО</item>
+        <item>НОРМАЛЬНО</item>
+        <item>СЛОЖНО</item>
+    </string-array>
+</resources>
